@@ -1,2 +1,2 @@
-# Git-and-Github-Practice
+# Git-and-Github
 Practice repository for  learning Git and GitHub
